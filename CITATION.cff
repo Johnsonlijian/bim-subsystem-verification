@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "Cite this software and the accompanying article when available."
 title: "Subsystem verification for automated BIM compliance checking"
-version: "0.16.0"
+repository-code: "https://github.com/Johnsonlijian/bim-subsystem-verification"
+version: "1.0.0"
 type: software
 authors:
   - family-names: Ren
