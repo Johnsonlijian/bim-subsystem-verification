@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+raw/
+*.ifc
+*.ttl
+*.zip
+*.tex
+*.aux
+*.log

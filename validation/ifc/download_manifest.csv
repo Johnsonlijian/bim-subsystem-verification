@@ -1,0 +1,5 @@
+name,sha256,source_url,local_path,bytes
+HS_fail_preprocessed.ifc,c3e25a24f34606dcd25256e728706022cec58eb9599c212465c49cce88f62be4,https://osf.io/jkh2z/,raw/64ef22a4e8b58b1f6f9c25e9.ifc,1055061
+HS_fail.ifc,612ce93d690acfb838b7a90a1df91bf854fb48475371137988b13254b45c781c,https://osf.io/jkh2z/,raw/64ef22a4209bae2037e93a00.ifc,1055064
+HS_pass.ifc,71fce586d4893bda705837f1c61cc3b4262e14be8077e7a77aed9b029f630a4e,https://osf.io/jkh2z/,raw/64ef22a5918d2d26e7e3ef8b.ifc,1192202
+HS_pass_preprocessed.ifc,40654b02f153c7eae47b84605d06dd4d60cb9a95ec258b37e65dd482b8e8c436,https://osf.io/jkh2z/,raw/64ef22a5d93e51269b3988e4.ifc,1192189

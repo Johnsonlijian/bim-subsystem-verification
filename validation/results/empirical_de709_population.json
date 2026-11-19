@@ -1,0 +1,4965 @@
+[
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|58348|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|58653|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|58957|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|59244|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|59533|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|59837|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|60139|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|60441|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|60728|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|61017|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|61321|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|61623|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|74381|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|74871|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|75360|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_001|stair_riser|75849|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7f23ac1b2d3988da9d9f9f095fab2727b64aa9a54607ccc75983998d40322d22"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_002|stair_riser|10131|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3fcb9619c88fd2a91a444fe6c696ed7c73bf5326f32f59262adf06f6eb9e68cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_002|stair_riser|91031|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3fcb9619c88fd2a91a444fe6c696ed7c73bf5326f32f59262adf06f6eb9e68cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_002|stair_riser|107596|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3fcb9619c88fd2a91a444fe6c696ed7c73bf5326f32f59262adf06f6eb9e68cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_002|stair_riser|108644|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3fcb9619c88fd2a91a444fe6c696ed7c73bf5326f32f59262adf06f6eb9e68cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_002|stair_riser|109560|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3fcb9619c88fd2a91a444fe6c696ed7c73bf5326f32f59262adf06f6eb9e68cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_002|stair_riser|110466|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3fcb9619c88fd2a91a444fe6c696ed7c73bf5326f32f59262adf06f6eb9e68cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_002|stair_riser|111374|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3fcb9619c88fd2a91a444fe6c696ed7c73bf5326f32f59262adf06f6eb9e68cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_002|stair_riser|133710|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3fcb9619c88fd2a91a444fe6c696ed7c73bf5326f32f59262adf06f6eb9e68cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#008",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#009",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#010",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#011",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#012",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#013",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#014",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_003|rail|0|g0#015",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "74e0755aa1c8adeff9599f61c4792cfd11cbc811aec41ac5087a2cef634caf1c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|135377#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|135618#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|135854#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|136090#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|136659#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|136917#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|137752#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|137988#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|334529#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|334765#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|335237#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|335473#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|335699#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|336475#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|336732#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|337275#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|512373#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|512602#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|513086#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|513343#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|513862#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|514088#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|515325#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|515561#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|667662#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|667898#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|668124#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|825974#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|826203#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|827201#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_006|space|827427#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "3804708b5258efc05b83ea6772ff9a1321cb0041a65b66c7e7265cfa7c469552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|2765|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|22849|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|26526|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|28408|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|30291|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|41285|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|43145|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|45005|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_010|stair_riser|46865|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a29b09d67c70b8aa3bfc8fc6cdc7037cec7b320802cf7eedb2a7f94532f67d81"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|stair_riser|148459|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|stair_riser|150139|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|stair_riser|151818|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|stair_riser|153497|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|rail|0|g1#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|rail|0|g1#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|rail|0|g1#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|rail|0|g1#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|rail|0|g1#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|rail|0|g1#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|rail|0|g1#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_012|rail|0|g1#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7fa30cc79c1336f37717b411a7b0f8054938fe4259ea16d5fa82ec68f83a3103"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|stair_riser|5194|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|stair_riser|5779|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|stair_riser|6273|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|stair_riser|6769|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|stair_riser|7463|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|stair_riser|7957|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|stair_riser|8449|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|stair_riser|8943|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_013|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "f18c164a38669496e35b7d53e2e21bf4b9f229922be8329ec55cc36975d15599"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_016|stair_riser|8360|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_016|stair_riser|8851|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_016|stair_riser|9480|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_016|stair_riser|9956|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_016|stair_riser|12115|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_016|stair_riser|14386|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_016|stair_riser|16648|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_016|stair_riser|18910|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_019|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "b470e0fb8750c5858953c6f164957a2b865bf54e925e7e27c66b0c4482a14dab"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_019|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "b470e0fb8750c5858953c6f164957a2b865bf54e925e7e27c66b0c4482a14dab"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_019|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "b470e0fb8750c5858953c6f164957a2b865bf54e925e7e27c66b0c4482a14dab"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_021|stair_riser|27413|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3ed79e734d272b2c651c6cb2ad37e1613c39d8e74b714c61bbb52bca3e7fb514"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_021|stair_riser|35694|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3ed79e734d272b2c651c6cb2ad37e1613c39d8e74b714c61bbb52bca3e7fb514"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_021|stair_riser|35975|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3ed79e734d272b2c651c6cb2ad37e1613c39d8e74b714c61bbb52bca3e7fb514"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_021|stair_riser|35980|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3ed79e734d272b2c651c6cb2ad37e1613c39d8e74b714c61bbb52bca3e7fb514"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_021|stair_riser|35985|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3ed79e734d272b2c651c6cb2ad37e1613c39d8e74b714c61bbb52bca3e7fb514"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_021|stair_riser|35993|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3ed79e734d272b2c651c6cb2ad37e1613c39d8e74b714c61bbb52bca3e7fb514"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_021|stair_riser|35998|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3ed79e734d272b2c651c6cb2ad37e1613c39d8e74b714c61bbb52bca3e7fb514"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_021|stair_riser|36003|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3ed79e734d272b2c651c6cb2ad37e1613c39d8e74b714c61bbb52bca3e7fb514"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_022|stair_riser|177632|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "eff70bf24f5a39aa4f2e2b1f1b6c79a193449b2ecf54dc3e2ac92294d07e4ca9"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_030|stair_riser|27478|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f8dcf66753cc65f815553ca1b36aa94d4216c663de3c43265dfe1d931ebacb37"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|stair_riser|3610|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|stair_riser|5342|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|stair_riser|7057|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|stair_riser|8772|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|stair_riser|10487|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|stair_riser|12204|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|stair_riser|13921|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|stair_riser|15638|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#008",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#009",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#010",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#011",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#012",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#013",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#014",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#015",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#016",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#017",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#018",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#019",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#020",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_032|rail|0|g0#021",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "bd54c0288384c77c5926f6518b8074f4841e24b0ccf1180108c31d3112ead448"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|2|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|2|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|2|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|2|g0#003",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|2|g0#004",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|2|g0#005",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|2|g0#006",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|2|g0#007",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|4|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_042|door|4|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6503cdaa88a4e12cc2025adf41fc957cd05a4f90ca82e30979e9cfbf54ca1c6b"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_043|door|2|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "6811f6fb81058d87fc17ed6d3d4f21e5ff7a38920e5d72d364c9d66ec5eef02c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_044|stair_riser|26483|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "ac29be19c334ad0e24d3890f25193a58bb619d686420ff27beb4ffedfd401d83"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_046|stair_riser|20905|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "48589d1dda48d5f16103fff50c5b2796b65cf1ae5f9279820804cf7c1079c064"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_046|stair_riser|21480|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "48589d1dda48d5f16103fff50c5b2796b65cf1ae5f9279820804cf7c1079c064"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_046|stair_riser|22043|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "48589d1dda48d5f16103fff50c5b2796b65cf1ae5f9279820804cf7c1079c064"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_050|stair_riser|563|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3e9580d0bc6e3eefbcf4e5dba19ee49acd3e00ba4806a3edb5ef6402aa91d5a3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_050|stair_riser|763|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3e9580d0bc6e3eefbcf4e5dba19ee49acd3e00ba4806a3edb5ef6402aa91d5a3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_050|stair_riser|1218|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3e9580d0bc6e3eefbcf4e5dba19ee49acd3e00ba4806a3edb5ef6402aa91d5a3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_050|stair_riser|1406|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3e9580d0bc6e3eefbcf4e5dba19ee49acd3e00ba4806a3edb5ef6402aa91d5a3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|stair_riser|88858|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|stair_riser|89341|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|stair_riser|89816|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g1#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g1#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g1#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g1#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g1#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_053|rail|0|g1#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2da147e4244fb8c4b87ab567dc6785f787de4407052e582502e1136d2d024304"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_055|stair_riser|44526|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "80d4492bca1edbb5dd764c72f9bc2e46f44b16d5f3e449ee6ce4f57fcc8b90c6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_055|stair_riser|46274|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "80d4492bca1edbb5dd764c72f9bc2e46f44b16d5f3e449ee6ce4f57fcc8b90c6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_055|stair_riser|47917|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "80d4492bca1edbb5dd764c72f9bc2e46f44b16d5f3e449ee6ce4f57fcc8b90c6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_055|stair_riser|49560|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "80d4492bca1edbb5dd764c72f9bc2e46f44b16d5f3e449ee6ce4f57fcc8b90c6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_055|stair_riser|67608|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "80d4492bca1edbb5dd764c72f9bc2e46f44b16d5f3e449ee6ce4f57fcc8b90c6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#003",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#004",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#005",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#006",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#007",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#008",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#009",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#010",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#011",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#012",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#013",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#014",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#015",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#016",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#017",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#018",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#019",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#020",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#021",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#022",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#023",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#024",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#025",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_059|door|1|g0#026",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c5326809e971f660883a734630ce14644c56669f19380d3d71067f1fd257d5a4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|stair_riser|20956|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|stair_riser|21511|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g1#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g1#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g1#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g1#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g1#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g1#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_063|rail|0|g1#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4e9b7d44f25f3b68f8d3816b2716f5268acd0f47688df9dc56cc07535b218e4a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_069|door|2|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "f866b24d526ebb1b273db61623b521171610ee0ee5fb80be22d06055b26cb0da"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_069|door|2|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "f866b24d526ebb1b273db61623b521171610ee0ee5fb80be22d06055b26cb0da"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_069|door|2|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "f866b24d526ebb1b273db61623b521171610ee0ee5fb80be22d06055b26cb0da"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_069|door|3|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "f866b24d526ebb1b273db61623b521171610ee0ee5fb80be22d06055b26cb0da"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_079|door|0|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "d46d1ced7e75add331377ff6c7ef676d955c955e416cf4705dcea1a0147d7cac"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_079|door|0|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "d46d1ced7e75add331377ff6c7ef676d955c955e416cf4705dcea1a0147d7cac"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_083|stair_riser|45799|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "292b3e0ca4de5fb3528198d084a2e19b97f6def7474a42d646a7efd964635ef6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_083|stair_riser|46452|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "292b3e0ca4de5fb3528198d084a2e19b97f6def7474a42d646a7efd964635ef6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_083|stair_riser|47188|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "292b3e0ca4de5fb3528198d084a2e19b97f6def7474a42d646a7efd964635ef6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_083|stair_riser|47650|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "292b3e0ca4de5fb3528198d084a2e19b97f6def7474a42d646a7efd964635ef6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_083|stair_riser|48110|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "292b3e0ca4de5fb3528198d084a2e19b97f6def7474a42d646a7efd964635ef6"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_094|stair_riser|27725|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "1948fb7e2afe7d2ea305fd08d1c5c828dcb3eca243d17c7592e7d75a8a937ee3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_094|stair_riser|28716|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "1948fb7e2afe7d2ea305fd08d1c5c828dcb3eca243d17c7592e7d75a8a937ee3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_094|stair_riser|29576|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "1948fb7e2afe7d2ea305fd08d1c5c828dcb3eca243d17c7592e7d75a8a937ee3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_094|stair_riser|30706|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "1948fb7e2afe7d2ea305fd08d1c5c828dcb3eca243d17c7592e7d75a8a937ee3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_094|stair_riser|32266|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "1948fb7e2afe7d2ea305fd08d1c5c828dcb3eca243d17c7592e7d75a8a937ee3"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|1|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|1|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|1|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|1|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|2|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|2|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|2|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#008",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#009",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#010",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#011",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#012",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#013",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#014",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#015",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#016",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#017",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#018",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#019",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#020",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#021",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#022",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#023",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#024",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#025",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#026",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#027",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#028",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#029",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#030",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#031",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#032",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#033",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#034",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#035",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#036",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#037",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_098|door|3|g0#038",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "688cd06713a328e6dc27a76920c625ec034d05870a9aef2db3b20b2b042edf05"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_100|stair_riser|6965|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8ba3313d4796c27292314eaced178aced40cefd5c1199dbd6a96fb6d35faae6a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_100|stair_riser|7175|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8ba3313d4796c27292314eaced178aced40cefd5c1199dbd6a96fb6d35faae6a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_100|stair_riser|8376|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8ba3313d4796c27292314eaced178aced40cefd5c1199dbd6a96fb6d35faae6a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_100|stair_riser|10071|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8ba3313d4796c27292314eaced178aced40cefd5c1199dbd6a96fb6d35faae6a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|3075|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|3522|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|3881|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|4240|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|4599|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|63300|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|63745|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|64160|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|64519|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|64878|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|65237|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_102|stair_riser|84046|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "36f94adbdb055ecf1bcac0b0deac1c8621180faa90b7fc1f1fc04913315410b4"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|3|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|3|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|3|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|3|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|3|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|3|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|3|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_109|door|4|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_114|stair_riser|3035|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f6ce47053c8c46c953d3ae6f4ac8654e7f11d0f278154686f364e32a95473716"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_114|stair_riser|3478|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f6ce47053c8c46c953d3ae6f4ac8654e7f11d0f278154686f364e32a95473716"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_114|stair_riser|27213|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f6ce47053c8c46c953d3ae6f4ac8654e7f11d0f278154686f364e32a95473716"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_114|stair_riser|32438|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f6ce47053c8c46c953d3ae6f4ac8654e7f11d0f278154686f364e32a95473716"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_114|stair_riser|36008|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f6ce47053c8c46c953d3ae6f4ac8654e7f11d0f278154686f364e32a95473716"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_114|stair_riser|36013|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f6ce47053c8c46c953d3ae6f4ac8654e7f11d0f278154686f364e32a95473716"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_117|stair_riser|101245|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4fcf2459c57222da154a1f27c9b411379264c045404e8b0601ed2b5f0e2ed38c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_127|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "ba538f9f2c221772f341880303e911e0297e40862b8b127fffb9d43336b60e13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_127|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "ba538f9f2c221772f341880303e911e0297e40862b8b127fffb9d43336b60e13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_127|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "ba538f9f2c221772f341880303e911e0297e40862b8b127fffb9d43336b60e13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_127|rail|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "ba538f9f2c221772f341880303e911e0297e40862b8b127fffb9d43336b60e13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_130|stair_riser|103398|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "42346d9837ef9d1aa3902795e1d54c30fe8dc9f2c10b352732bb05e57c42e2d8"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_130|stair_riser|105057|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "42346d9837ef9d1aa3902795e1d54c30fe8dc9f2c10b352732bb05e57c42e2d8"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_130|stair_riser|116375|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "42346d9837ef9d1aa3902795e1d54c30fe8dc9f2c10b352732bb05e57c42e2d8"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_130|stair_riser|117246|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "42346d9837ef9d1aa3902795e1d54c30fe8dc9f2c10b352732bb05e57c42e2d8"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_130|stair_riser|118116|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "42346d9837ef9d1aa3902795e1d54c30fe8dc9f2c10b352732bb05e57c42e2d8"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_130|stair_riser|118987|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "42346d9837ef9d1aa3902795e1d54c30fe8dc9f2c10b352732bb05e57c42e2d8"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_133|stair_riser|33299|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "c3c17a16197d3b7bf82fdc0c48ad7dee78f3163ca6c3430fb2bdd504391818cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_133|stair_riser|35305|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "c3c17a16197d3b7bf82fdc0c48ad7dee78f3163ca6c3430fb2bdd504391818cb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_135|stair_riser|111324|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "6eccb1bac5333c800698aaf889fbcf3e4d63b107ca2a0e8b3a4b4be4f48fb721"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_135|stair_riser|111968|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "6eccb1bac5333c800698aaf889fbcf3e4d63b107ca2a0e8b3a4b4be4f48fb721"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_135|stair_riser|112601|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "6eccb1bac5333c800698aaf889fbcf3e4d63b107ca2a0e8b3a4b4be4f48fb721"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_135|stair_riser|113233|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "6eccb1bac5333c800698aaf889fbcf3e4d63b107ca2a0e8b3a4b4be4f48fb721"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_135|stair_riser|113866|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "6eccb1bac5333c800698aaf889fbcf3e4d63b107ca2a0e8b3a4b4be4f48fb721"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_135|stair_riser|114498|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "6eccb1bac5333c800698aaf889fbcf3e4d63b107ca2a0e8b3a4b4be4f48fb721"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|stair_riser|34371|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|stair_riser|34376|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|stair_riser|36142|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|stair_riser|36147|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g1#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g1#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g1#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g1#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g1#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g1#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#008",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#009",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#010",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g4#011",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#008",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#009",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#010",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#011",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#012",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#013",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#014",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#015",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#016",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#017",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#018",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#019",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#020",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#021",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#022",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_137|rail|0|g5#023",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "a7966c0b894117ded877b48d286bd50815e7bacbdeaffb5a36d91d2a927e5c13"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_143|stair_riser|10274|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "9a260d33a6d0187564154d3f04cc9401a9cfe145412e41f4e7115a4769419701"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_143|stair_riser|10620|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "9a260d33a6d0187564154d3f04cc9401a9cfe145412e41f4e7115a4769419701"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_143|stair_riser|11441|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "9a260d33a6d0187564154d3f04cc9401a9cfe145412e41f4e7115a4769419701"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_144|stair_riser|8500|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "9d1de257b373ef48f425298f68e6d2a8bebdf335096e347e2b00d7a8cdc6e552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_144|stair_riser|20481|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "9d1de257b373ef48f425298f68e6d2a8bebdf335096e347e2b00d7a8cdc6e552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_144|stair_riser|30276|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "9d1de257b373ef48f425298f68e6d2a8bebdf335096e347e2b00d7a8cdc6e552"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g1#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g1#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#008",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#009",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#010",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#011",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#012",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#013",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#014",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_145|rail|0|g2#015",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "97e9131dc63487132a0a437c9e36e6e91ee5b2fae62f3ee5b1683cb3459be739"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|4590|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|7303|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|10001|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|12699|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|15313|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|18043|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|20773|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|23503|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|51442|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|52936|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|54421|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|stair_riser|55906|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#008",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#009",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#010",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#011",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#012",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#013",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#014",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#015",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#016",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#017",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#018",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#019",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#020",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#021",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#022",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_154|rail|0|g0#023",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "03403a8904a16a510766843c986c2a4a3a14d7c54252fbcaf83fcbda1c7f8490"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_155|door|3|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "d09ed9fe875ed3515b4feb53d6628b49727f8cbf99ae9de56c581febd685458e"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_155|door|3|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "d09ed9fe875ed3515b4feb53d6628b49727f8cbf99ae9de56c581febd685458e"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#008",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|door|2|g0#009",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|rail|0|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_156|rail|0|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c08f19925e133c3d7841ec940ab45d5b8d14fa6dd31d7eb3fff52fed081a9491"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|0|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|0|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|0|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|0|g0#003",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|0|g0#004",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|0|g0#005",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|0|g0#006",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|0|g0#007",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|1|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|1|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|1|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|1|g0#003",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|3|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|3|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|4|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|4|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|4|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_157|door|4|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c37ff7c38d39219bd9d60333c6f6c809ab1b300e72d348af5d51d8b506c6ab65"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|stair_riser|4188|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|stair_riser|5064|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|stair_riser|32396|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|stair_riser|34300|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|stair_riser|38792|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|stair_riser|39627|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|rail|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|rail|0|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|rail|0|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|rail|0|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_162|rail|0|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "4638ae9572773cbc4676d5075e4f31ab7409c13d748d56de4dbe046bfbb0456a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|stair_riser|4038|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|stair_riser|4581|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|stair_riser|5033|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|stair_riser|5487|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|rail|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|rail|0|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|rail|0|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|rail|0|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_164|rail|0|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "7151f13e4d361c9610a82ca5ed93e6bbf46a65034bcf18b53da9c9ff1d3a5333"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_165|stair_riser|5905|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3c881c7e394ac81c1c9b3a56bb7df5ec492aed23509f974b432f76337c56e05d"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_165|stair_riser|6199|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3c881c7e394ac81c1c9b3a56bb7df5ec492aed23509f974b432f76337c56e05d"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_166|stair_riser|32220|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "5e2e70ab76e38990e8146a0ecb92c9667e4550487e3a9a098c9739c4d7de673c"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_168|stair_riser|1835|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "194faf9a0132f62a090eff0272e39cd2d37e735244aca6abde7b8bf891daa4ab"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_168|stair_riser|90969|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "194faf9a0132f62a090eff0272e39cd2d37e735244aca6abde7b8bf891daa4ab"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_168|stair_riser|95809|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "194faf9a0132f62a090eff0272e39cd2d37e735244aca6abde7b8bf891daa4ab"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_168|stair_riser|100649|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "194faf9a0132f62a090eff0272e39cd2d37e735244aca6abde7b8bf891daa4ab"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_170|rail|0|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2014a6edc636fb6bc9a47b10df7d95e8a82fd87da9b3329b9a0255e3bc9dcc7e"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_170|rail|0|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2014a6edc636fb6bc9a47b10df7d95e8a82fd87da9b3329b9a0255e3bc9dcc7e"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_170|rail|0|g1#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "2014a6edc636fb6bc9a47b10df7d95e8a82fd87da9b3329b9a0255e3bc9dcc7e"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#003",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#004",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#005",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#006",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#007",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#008",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#009",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#010",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#011",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#012",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#013",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#014",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#015",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#016",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|0|g0#017",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#008",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#009",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#010",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#011",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#012",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#013",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#014",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#015",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#016",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#017",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#018",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|1|g0#019",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|2|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|door|2|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|stair_riser|10712|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|stair_riser|85960|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|stair_riser|86614|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|stair_riser|87268|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|stair_riser|134992|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|stair_riser|135648|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|stair_riser|136302|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_172|stair_riser|136956|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "28df5fe61af58122379ce125f85738176693cc6a9b8e0502b2622344a5f884ca"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|stair_riser|15195|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|stair_riser|20647|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|stair_riser|52887|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|stair_riser|54191|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|stair_riser|64358|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#008",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#009",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#010",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#011",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#012",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#013",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#014",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#015",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#016",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#017",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#018",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#019",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#020",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#021",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#022",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_173|rail|0|g0#023",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "e22740c72da97e11ff42f76301c758f3c79f2b1ae3d92131dcb5ac97223af01a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_186|stair_riser|20307|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8e91981da3a067e02147cace6b017fdf745a7349cfa7f624355fda9fd9f56a77"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_186|stair_riser|24427|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8e91981da3a067e02147cace6b017fdf745a7349cfa7f624355fda9fd9f56a77"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_186|stair_riser|28781|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8e91981da3a067e02147cace6b017fdf745a7349cfa7f624355fda9fd9f56a77"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_186|stair_riser|33132|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8e91981da3a067e02147cace6b017fdf745a7349cfa7f624355fda9fd9f56a77"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_186|stair_riser|35777|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "8e91981da3a067e02147cace6b017fdf745a7349cfa7f624355fda9fd9f56a77"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_189|stair_riser|40915|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "3cb8ceda8c3bdfa50ac4957d381abf915616efb2c812b3482aa1ede46a75ae82"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_189|rail|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3cb8ceda8c3bdfa50ac4957d381abf915616efb2c812b3482aa1ede46a75ae82"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_189|rail|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3cb8ceda8c3bdfa50ac4957d381abf915616efb2c812b3482aa1ede46a75ae82"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_190|rail|0|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_190|rail|0|g1#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_190|rail|0|g1#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_190|rail|0|g1#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_190|rail|0|g1#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_190|rail|0|g1#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_190|rail|1|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_190|rail|4|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_191|stair_riser|13041|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f182ee1989a295f2ea18cd20930edce0d41a86a82a4698696b09d9b14b3a97fb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_191|stair_riser|59051|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f182ee1989a295f2ea18cd20930edce0d41a86a82a4698696b09d9b14b3a97fb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_191|stair_riser|67747|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "f182ee1989a295f2ea18cd20930edce0d41a86a82a4698696b09d9b14b3a97fb"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_197|stair_riser|63791|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "fce2e94dd1ef1b93becd5ecb9147b2c15d2fa8dc544f91545bcada992b9e53f5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_197|stair_riser|70133|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "fce2e94dd1ef1b93becd5ecb9147b2c15d2fa8dc544f91545bcada992b9e53f5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|0|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|0|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|0|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|0|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|0|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|0|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|0|g1#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|2|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|2|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|2|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|2|g0#003",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|2|g0#004",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|2|g0#005",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|2|g0#006",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|door|2|g0#007",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|18779#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|24592#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|24607#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|31621#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32318#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32328#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32340#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32341#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32345#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32349#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32356#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32358#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32361#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32368#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32369#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32376#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32386#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32391#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32396#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32397#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32406#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32412#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32413#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32414#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32423#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32439#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32440#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32449#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32452#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32453#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32459#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_bf_201|space|32467#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "010ebe9977ed4f42761ab5b998839afe8952191c8466c7cb659986fc9b0f3772"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_1_arc|rail|0|g1#000",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3f2fc7e97f7cce4cad479084aeb312d4ada17e60c77ff25d5bdc8c978c177412"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_1_arc|rail|0|g1#001",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3f2fc7e97f7cce4cad479084aeb312d4ada17e60c77ff25d5bdc8c978c177412"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_1_arc|rail|0|g1#002",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3f2fc7e97f7cce4cad479084aeb312d4ada17e60c77ff25d5bdc8c978c177412"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_1_arc|rail|0|g1#003",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3f2fc7e97f7cce4cad479084aeb312d4ada17e60c77ff25d5bdc8c978c177412"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_1_arc|rail|0|g1#004",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3f2fc7e97f7cce4cad479084aeb312d4ada17e60c77ff25d5bdc8c978c177412"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_1_arc|rail|0|g1#005",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3f2fc7e97f7cce4cad479084aeb312d4ada17e60c77ff25d5bdc8c978c177412"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_1_arc|rail|0|g1#006",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3f2fc7e97f7cce4cad479084aeb312d4ada17e60c77ff25d5bdc8c978c177412"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_1_arc|rail|0|g1#007",
+    "verdict": "PASS",
+    "rule_id": "DE:railing_height",
+    "subsystem": "railing",
+    "source_sha256": "3f2fc7e97f7cce4cad479084aeb312d4ada17e60c77ff25d5bdc8c978c177412"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_2_arc|door|0|g1#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_2_arc|door|0|g1#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_2_arc|door|0|g1#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_2_arc|door|0|g1#003",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_2_arc|door|0|g1#004",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_2_arc|door|0|g1#005",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_2_arc|door|0|g1#006",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_2_arc|door|0|g1#007",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|0|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|0|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|0|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|0|g0#003",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|0|g0#004",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|0|g0#005",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|0|g0#006",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|2|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|2|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|2|g0#002",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|2|g0#003",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|2|g0#004",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|2|g0#005",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|2|g0#006",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|2|g0#007",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|3|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_3_arc|door|3|g0#001",
+    "verdict": "PASS",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_6_arc|stair_riser|3149|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7850c4d909b41dc439feed2e76ffe507c0b472b04513b1ede9e1deec90c503c1"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_6_arc|stair_riser|3391713|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7850c4d909b41dc439feed2e76ffe507c0b472b04513b1ede9e1deec90c503c1"
+  },
+  {
+    "check_id": "DE|version_space_indirect|gni_pj_model_6_arc|stair_riser|7071775|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "7850c4d909b41dc439feed2e76ffe507c0b472b04513b1ede9e1deec90c503c1"
+  },
+  {
+    "check_id": "DE|version_space_indirect|zen_15782433_ds3_taltech|stair_riser|216242|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "05919eee0701b955d3d08501c4889c879d9c486e2389a6a1a5cdaad32a5d10ba"
+  },
+  {
+    "check_id": "DE|version_space_indirect|zen_18414845_certh_smarthouse|stair_riser|56589|g0#000",
+    "verdict": "PASS",
+    "rule_id": "DE:stair_riser",
+    "subsystem": "stair",
+    "source_sha256": "d28baea64cab18a647a232d21029bd6bea39d20512e85792678e5d2d14957525"
+  },
+  {
+    "check_id": "DE|version_space_indirect|zen_8005475_haus_bacn_xenta_cartif|door|1|g0#000",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "220782573dbdd1a7078bbd58daaf64396d04f4a6e28940ed3b18601ced74a000"
+  },
+  {
+    "check_id": "DE|version_space_indirect|zen_8005475_haus_bacn_xenta_cartif|door|1|g0#001",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "220782573dbdd1a7078bbd58daaf64396d04f4a6e28940ed3b18601ced74a000"
+  },
+  {
+    "check_id": "DE|version_space_indirect|zen_8005475_haus_bacn_xenta_cartif|door|1|g0#002",
+    "verdict": "FAIL",
+    "rule_id": "DE:door_clear_width",
+    "subsystem": "door",
+    "source_sha256": "220782573dbdd1a7078bbd58daaf64396d04f4a6e28940ed3b18601ced74a000"
+  },
+  {
+    "check_id": "DE|version_space_indirect|zen_8005475_haus_bacn_xenta_cartif|space|21283#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "220782573dbdd1a7078bbd58daaf64396d04f4a6e28940ed3b18601ced74a000"
+  },
+  {
+    "check_id": "DE|version_space_indirect|zen_8005475_haus_bacn_xenta_cartif|space|34763#000",
+    "verdict": "PASS",
+    "rule_id": "DE:ceiling_height",
+    "subsystem": "space",
+    "source_sha256": "220782573dbdd1a7078bbd58daaf64396d04f4a6e28940ed3b18601ced74a000"
+  }
+]

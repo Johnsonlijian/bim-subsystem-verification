@@ -1,0 +1,62 @@
+[
+  {
+    "name": "validation output.txt",
+    "id": "64ef2f5e209bae2090e938e9",
+    "bytes": 2797,
+    "sha256": "f65adeb01b41f8269e3ab54064db8b9bb1043c3833008d2a59b151ed5f1bc04d",
+    "upstream_hash": "f65adeb01b41f8269e3ab54064db8b9bb1043c3833008d2a59b151ed5f1bc04d",
+    "path": "validation/raw/64ef2f5e209bae2090e938e9.txt",
+    "source": "https://osf.io/j7raf/",
+    "version": null
+  },
+  {
+    "name": "shapes.ttl",
+    "id": "64d7943f4cf74805fb0557e5",
+    "bytes": 3023,
+    "sha256": "808fc3f8520d11f33ff9546ed248884588970d1d8983a03adfff80ce818983e0",
+    "upstream_hash": "808fc3f8520d11f33ff9546ed248884588970d1d8983a03adfff80ce818983e0",
+    "path": "validation/raw/64d7943f4cf74805fb0557e5.ttl",
+    "source": "https://osf.io/j7raf/",
+    "version": null
+  },
+  {
+    "name": "HS_fail_preprocessed.ttl",
+    "id": "64ef2369e8b58b1f7e9c23f9",
+    "bytes": 4133,
+    "sha256": "a9814406798741496f093f97c308f921f03aa1fed9428ac64706643f5dde7b69",
+    "upstream_hash": "a9814406798741496f093f97c308f921f03aa1fed9428ac64706643f5dde7b69",
+    "path": "validation/raw/64ef2369e8b58b1f7e9c23f9.ttl",
+    "source": "https://osf.io/j7raf/",
+    "version": null
+  },
+  {
+    "name": "HS_pass.ttl",
+    "id": "64ef2369209bae2048e93833",
+    "bytes": 4094,
+    "sha256": "2b7fa140bb116eb9df5add0924c9123b20d3ca27bfd332115d3cc093ef8f34eb",
+    "upstream_hash": "2b7fa140bb116eb9df5add0924c9123b20d3ca27bfd332115d3cc093ef8f34eb",
+    "path": "validation/raw/64ef2369209bae2048e93833.ttl",
+    "source": "https://osf.io/j7raf/",
+    "version": null
+  },
+  {
+    "name": "HS_fail.ttl",
+    "id": "64ef2369209bae2047e93831",
+    "bytes": 4114,
+    "sha256": "bbeed3be4a9e3ef2050f0b9f9f74f4aafede03ae64c89bc8d8c00c979368f6f2",
+    "upstream_hash": "bbeed3be4a9e3ef2050f0b9f9f74f4aafede03ae64c89bc8d8c00c979368f6f2",
+    "path": "validation/raw/64ef2369209bae2047e93831.ttl",
+    "source": "https://osf.io/j7raf/",
+    "version": null
+  },
+  {
+    "name": "HS_pass_preprocessed.ttl",
+    "id": "64ef236a209bae2047e93833",
+    "bytes": 4198,
+    "sha256": "67d766b66fa36f0afa127cc9b520f767477312ab99ac2079f769d9c0c33fe442",
+    "upstream_hash": "67d766b66fa36f0afa127cc9b520f767477312ab99ac2079f769d9c0c33fe442",
+    "path": "validation/raw/64ef236a209bae2047e93833.ttl",
+    "source": "https://osf.io/j7raf/",
+    "version": null
+  }
+]

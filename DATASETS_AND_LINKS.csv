@@ -1,0 +1,31 @@
+model_id,source,source_url,sha256,license,stratum,r14_role
+bw_advanced_project,G_bimwhale,https://github.com/andrewisen/bim-whale-ifc-samples,86b068a7ca6947e398c1daaa8bede9d31048c3990adc308429faeb56ee01db94,mit,vendor_example,excluded_companion_overlap
+bw_basic_house,G_bimwhale,https://github.com/andrewisen/bim-whale-ifc-samples,540d75a15923ce7ef7821ee7a744298b99a6b8cdeb9afc92a1a6723b3ea2c923,mit,vendor_example,calibration_nonproject
+bw_large_building,G_bimwhale,https://github.com/andrewisen/bim-whale-ifc-samples,102f8123f85eae5e237d7f6a9dcbc364bd5f1c0cfb94b40a7eeb2d7eac9bb725,mit,vendor_example,excluded_companion_overlap
+gni_bf_016,B,https://zenodo.org/records/19722012,55701ce1c65156a8946cb33330719c6a1948a31e77d00cd07eeafda9dc088a67,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_049,B,https://zenodo.org/records/19722012,d0d72fc1ce3c9a3f4aaa73315ff31ec028f055a225eadd335ae7585445eeaff6,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_094,B,https://zenodo.org/records/19722012,1948fb7e2afe7d2ea305fd08d1c5c828dcb3eca243d17c7592e7d75a8a937ee3,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_109,B,https://zenodo.org/records/19722012,e764a40306cd6678265b5b5c97e7fafe2d9ce92d661dffdf3dd73632bed3512c,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_111,B,https://zenodo.org/records/19722012,e68a8e282331bdee724233fe61d16cb1cbf4ef834d827960c453601c9b19f532,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_179,B,https://zenodo.org/records/19722012,eac3673c2bb9b78963ae7e9a8b5d23ccd0d24125eb3726f7eb3abb33fdf4219e,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_183,B,https://zenodo.org/records/19722012,dc8473160620225b04aa2df614ffe751d02fe806eb9aa01ffc577cdee1708831,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_190,B,https://zenodo.org/records/19722012,c28871f8232c8dcf6ec49d6a83e4b4349cadb421cc2a1cb954ad337d8317801a,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_194,B,https://zenodo.org/records/19722012,993f8428e56b322b36fe0135f62b3419e9ce4bd619c64301540b5e41d8fcee8f,CC BY 4.0,student_same_task,calibration_nonproject
+gni_bf_202,B,https://zenodo.org/records/19722012,475245727304250fda6cd8b7a9109c772e9ea52333ff1c2525c4b46cfb48b640,CC BY 4.0,student_same_task,calibration_nonproject
+gni_pj_model_2_arc,B,https://zenodo.org/records/19722012,efe4923639472427f3b4c073250e97fe420b521c5f727c98d8f8d70b0c8d6200,CC BY 4.0,student_project,calibration_nonproject
+gni_pj_model_3_arc,B,https://zenodo.org/records/19722012,c2a7d31a99db8919c75060203e8312ccb56f748a1851aa007fe1f2601e7992d5,CC BY 4.0,student_project,calibration_nonproject
+gni_pj_model_4_arc,B,https://zenodo.org/records/19722012,6fa0fc24950bb03983559786246e6906bbbc2eadb2edb249a7c867fdb35de261,CC BY 4.0,student_project,calibration_nonproject
+ifcb_samuel_macalister_sample_house_arc,A,https://huggingface.co/datasets/sylvainHellin/ifc-bench/resolve/main/projects/samuel_macalister_sample_house/arc.ifc,1421b55315b99044b639db2704dc086aeb42a37d6032bbc2aecdc8649f7c05f2,GNU GPL v3,real_project,excluded_companion_overlap
+zen_15782433_ds3_taltech,F_zenodo,https://zenodo.org/records/15782433/files/DS3_TalTech_V4.ifc,05919eee0701b955d3d08501c4889c879d9c486e2389a6a1a5cdaad32a5d10ba,cc-by-4.0,real_project,real_project_holdout
+zen_18414845_certh_smarthouse,F_zenodo,https://zenodo.org/records/18414845/files/certh_smarthouse_bim_file.ifc,d28baea64cab18a647a232d21029bd6bea39d20512e85792678e5d2d14957525,cc-by-4.0,real_project,real_project_holdout
+zen_20391764_robocop_urz,F_zenodo,https://zenodo.org/records/20391764/files/RoboCoP_Geometry-URZ.ifc,8f81a18ff61bbf33fa9b40e63726c00fe01298a40c91e51174d9cf08d77345e7,cc-by-4.0,real_project,real_project_holdout
+zen_5047709_a2,F_zenodo,https://zenodo.org/records/5047709/files/a2.ifc,91d8b72a1b6640b8115c3171ad954b2462770cf8c7a94b3d2e57bdcf3ad81ac4,cc-by-4.0,real_project,real_project_holdout
+zen_5047709_a5,F_zenodo,https://zenodo.org/records/5047709/files/a5.ifc,05c6b43e3f31bd4d2f4fb84ff6222dda725fbe4f6d7cec67d1eb3e1ddd253772,cc-by-4.0,real_project,real_project_holdout
+zen_6397164_model1,F_zenodo,https://zenodo.org/records/6397164/files/model1.ifc,489bacef494bb3921b5837a3070114da6c8a52f3704d29ba1f0062c285d6ef99,cc-by-4.0,real_project,real_project_holdout
+zen_6397164_model2,F_zenodo,https://zenodo.org/records/6397164/files/model2.ifc,2d5d89c0928270e7ce844f27928ed9bd35bfb1c369e8258e596c27e15c991c79,cc-by-4.0,real_project,real_project_holdout
+zen_6685810_ita,F_zenodo,https://zenodo.org/records/6685810/files/BIM4EEB_DEMONSTRATION_BLDG_ITA.ifc,3724efd564e378acebabbbaad57f171f52acc2a3f6d4e59e15332dcae8f99fc1,cc-by-4.0,real_project,real_project_holdout
+zen_6685810_pol,F_zenodo,https://zenodo.org/records/6685810/files/BIM4EEB_DEMONSTRATION_BLDG_POL.ifc,e3e452604ce83836e395c57fe0f6eb2b2340e97d46a5e5057d27c612b0aa57f3,cc-by-4.0,real_project,real_project_holdout
+zen_6777933_survey_p8,F_zenodo,https://zenodo.org/records/6777933/files/project_8_attachment_18_586d303c-7578-49fb-8c4a-fe9cb6b83fc9.ifc,2bbba82d97c8ec460b3b69d81d24571b31715fcb01dabff0d6b19d37a87caefa,cc-by-4.0,real_project,real_project_holdout
+zen_7766787_livingbim_c106,F_zenodo,https://zenodo.org/records/7766787,b88a5a9a1c36f655867d470b239ca2675461b764be61b0dfb6a0849ab54d7c56,cc-by-4.0,real_project,real_project_holdout
+zen_7948116_craslabbim,F_zenodo,https://zenodo.org/records/7948116/files/craslabbim.ifc,a83e573037b0c4cbba30f1167ed96cda52eb51859091d2c7d47cec7a59e1a36b,cc-by-4.0,real_project,real_project_holdout
+zen_8005475_haus_bacn_xenta_cartif,F_zenodo,https://zenodo.org/records/8005475/files/HAUS_BACN_XENTA_CARTIF.ifc,220782573dbdd1a7078bbd58daaf64396d04f4a6e28940ed3b18601ced74a000,cc-by-4.0,real_project,real_project_holdout
